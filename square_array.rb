@@ -6,5 +6,3 @@ def square_array(array)
     sqrt_number
   end
 end
-
-sqrt_array
