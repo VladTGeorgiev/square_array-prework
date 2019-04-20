@@ -1,5 +1,5 @@
 def square_array(array)
-  new_array = []
+  sqrt_array = []
   array.each do |element|
     sqrt_number = Math.sqrt(element)
     #new_array.push(sqrt_number)
@@ -7,4 +7,4 @@ def square_array(array)
   end
 end
 
-new_array
+sqrt_array
